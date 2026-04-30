@@ -16,3 +16,5 @@ Implementando login - etapa 2
 Implementando login - etapa 3
 
 Implementando cadastro - etapa 1
+
+Implementando cadastro - etapa 2
